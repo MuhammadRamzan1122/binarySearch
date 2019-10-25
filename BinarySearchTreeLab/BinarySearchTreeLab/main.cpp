@@ -6,6 +6,7 @@ int main()
 	int condition = 0;
 	while (condition != 8)
 	{
+		// ye mainay change kar dia
 		//Main Menu 
 		cout << "============================================Menu============================================== " << endl << endl;
 		cout << "\t\t\t\tPress 1 to ADD a node " << endl;
